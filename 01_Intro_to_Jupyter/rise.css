@@ -1,0 +1,64 @@
+.rise-enabled {
+    background-color: #ffffff !important;
+    border-top: 30px #919191 solid;
+    border-bottom: 30px #919191 solid;
+}
+
+.question {
+    color: #008;   
+}
+
+.your_turn {
+    color: #e08414;
+    font-size: 150%;
+    font-weight: bold;
+}
+
+.shadow {
+    text-shadow: 1px 1px 2px #000000;
+}
+
+.rendered_html h1 {
+    color: #2b3e85;
+    text-shadow: 2px 2px 5px #777777;
+}
+
+.text-primary {
+    color: #2b3e85;
+}
+
+.text-secondary {
+    color: #edac1a;
+}
+
+.text-danger {
+    color: #b4373c;
+}
+
+.text-warning {
+    color: #e37a33
+}
+
+.text-success {
+    color: #b5a742;
+}
+
+.text-info {
+    color: #7badb6;
+}
+
+.text-dark {
+    color: #555f60;
+}
+
+.text-gray {
+    color: #888178;
+}
+
+.rendered_html table, .rendered_html th, .rendered_html tr, .rendered_html td {
+    font-size: 100%;
+}
+
+.container.slides .celltoolbar, .container.slides .hide-in-slideshow {
+    display: None ! important;
+}
