@@ -1,5 +1,0 @@
-is
-each
-word
-a
-line?
