@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# CUSTOM THINGS HERE
+.DS_STORE
+07_Plotting/masterpiece.pdf
+07_Plotting/masterpiece.png
